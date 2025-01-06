@@ -1,3 +1,6 @@
+ @import url("//cdn.web-fonts.ge/fonts/bpg-mikheil-stefane/css/bpg-mikheil-stefane.min.css");
+
+
  nav li {
   display: inline-block;
 }
@@ -23,6 +26,7 @@
 
 .margin{
 	margin-left: 300px;
+	margin-top: 50px;
 }
 
 .loadmore {
@@ -32,5 +36,18 @@
 
 a {
 	text-decoration: none;
-	style="color: #707070;"
+	color: #707070;
+	font-family: "BPG DedaEna Nonblock", sans-serif;
+}
+
+.pfont {
+	font-family: "ALK Life", sans-serif;
+}
+
+.titlefont {
+	font-family: "ALK Rounded Mtav Med", sans-serif;
+}
+
+li{
+	padding: 20px;
 }
